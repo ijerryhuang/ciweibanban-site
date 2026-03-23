@@ -34,7 +34,7 @@ a { color: inherit; }
   border-bottom: 1px solid rgba(58, 104, 76, 0.06);
 }
 .nav {
-  min-height: 66px;
+  min-height: 74px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -43,20 +43,20 @@ a { color: inherit; }
 .brand {
   display: inline-flex;
   align-items: center;
-  gap: 12px;
+  gap: 14px;
   text-decoration: none;
 }
 .brand-logo {
-  width: 36px;
-  height: 36px;
-  border-radius: 10px;
+  width: 52px;
+  height: 52px;
+  border-radius: 14px;
   object-fit: cover;
-  box-shadow: 0 8px 20px rgba(41, 81, 58, 0.12);
+  box-shadow: 0 10px 24px rgba(41, 81, 58, 0.14);
 }
 .brand-text {
-  font-size: 0.98rem;
+  font-size: 1.18rem;
   font-weight: 700;
-  letter-spacing: -0.02em;
+  letter-spacing: -0.025em;
   color: var(--primary-strong);
 }
 .nav-links {
