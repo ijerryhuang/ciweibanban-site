@@ -31,3 +31,5 @@ open index.html
 - 联系表单
 - 多语言版本
 - 正式域名与部署
+
+site deploy retry 2026-03-25 10:38:18 +0800
